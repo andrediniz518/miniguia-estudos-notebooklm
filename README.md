@@ -126,3 +126,15 @@ Como você escreveria esse pequeno programa em Python (mesmo que seja apenas no 
 
 Dica: Lembre-se de usar uma variável para a idade, o if/else para a decisão e não esqueça dos dois pontos : no final das condições!
 
+***
+
+## Troubleshooting
+
+**Dificuldade encontrada**
+
+O prompt inicial a resposta está correta mas era genérico, sem exemplos práticos
+e exercicios de fixação
+
+Resolvi esse problema, especificando que era para um iniciante em programação e usar
+exemplos do cotidiano para melhor entendimento. 
+
