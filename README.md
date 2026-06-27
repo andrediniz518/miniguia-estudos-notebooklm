@@ -33,8 +33,6 @@ _*Pergunta: Me ajude a revisar o que é lógica de programação.*_
 
 A IA explicou o conceito de lógica de programação apresentando os pilares da linguagem Python, como variáveis, estruturas condicionais, laços de repetição, funções e indentação.
 
-***
-
 ## Fontes utilizadas:
 
 * Estruturas de repetição em Python | DevMedia
@@ -71,5 +69,34 @@ Após o refinamento, a IA produziu uma resposta mais organizada, didática e ade
 Aprendi que prompts específicos produzem respostas mais completas e úteis para o estudo.
 
 ***
- 
 
+### Miniguia de Estudos
+ 
+*Resumo*
+
+* O que é lógica de programação.
+* Variáveis.
+* Tipos de dados.
+* Operadores.
+* Condicionais.
+* Repetição.
+* Funções.
+* Indentação.
+
+## 📖 Glossário
+
+| Termo | Definição |
+|--------|-----------|
+| **Lógica de Programação** | Conjunto de regras e instruções utilizadas para resolver problemas por meio de algoritmos. |
+| **Variável** | Espaço na memória utilizado para armazenar informações que podem ser alteradas durante a execução do programa. |
+| **int** | Tipo de dado utilizado para representar números inteiros, como 10, 25 ou -8. |
+| **float** | Tipo de dado utilizado para representar números decimais, como 3.14 ou 7.5. |
+| **str** | Tipo de dado utilizado para armazenar textos, palavras ou frases. |
+| **bool** | Tipo de dado lógico que possui apenas dois valores: `True` (verdadeiro) ou `False` (falso). |
+| **if** | Estrutura condicional utilizada para executar um bloco de código quando uma condição é verdadeira. |
+| **elif** | Estrutura utilizada para testar uma nova condição caso a condição anterior seja falsa. |
+| **else** | Estrutura executada quando nenhuma das condições anteriores é atendida. |
+| **for** | Estrutura de repetição utilizada para percorrer elementos de uma coleção ou repetir uma ação um número determinado de vezes. |
+| **while** | Estrutura de repetição que executa um bloco de código enquanto uma condição permanecer verdadeira. |
+| **Função** | Bloco de código reutilizável criado para executar uma tarefa específica, evitando repetição de código. |
+| **Indentação** | Recuo obrigatório das linhas de código em Python que define quais instruções pertencem ao mesmo bloco lógico. |
