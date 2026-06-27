@@ -100,3 +100,15 @@ Aprendi que prompts específicos produzem respostas mais completas e úteis para
 | **while** | Estrutura de repetição que executa um bloco de código enquanto uma condição permanecer verdadeira. |
 | **Função** | Bloco de código reutilizável criado para executar uma tarefa específica, evitando repetição de código. |
 | **Indentação** | Recuo obrigatório das linhas de código em Python que define quais instruções pertencem ao mesmo bloco lógico. |
+
+## Prompts Utilizaveis
+
+* Explique este conceito como se eu nunca tivesse programado.
+* Crie um resumo em tópicos.
+* Crie cinco exercícios.
+* Corrija meu código.
+* Explique meus erros.
+* Faça uma analogia do cotidiano.
+* Crie questões de revisão.
+* Faça um mapa mental.
+
