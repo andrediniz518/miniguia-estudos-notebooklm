@@ -7,7 +7,7 @@ sobre Lógica de Programação com Python. A proposta é utilizar a IA como apoi
 estudos, reunindo materias de referencia, testando diferentes prompts e organizar
 um guia de estudo.
 
-**Obejtivos**
+**Objetivos**
 * Revisar lógica de programação
 * Criar um material de futuras revisões
 * Utilizar IA como apoio
@@ -79,7 +79,7 @@ Aprendi que prompts específicos produzem respostas mais completas e úteis para
 **Resposta da IA:**
 
 
-A IA criou cinco exercíciossobre variáveis, condicionais, laços de repetição e funções, 
+A IA criou cinco exercícios sobre variáveis, condicionais, laços de repetição e funções, 
 para reforçar os conceitos de lógica de programação em Python
 
 ## Fontes utilizadas:
