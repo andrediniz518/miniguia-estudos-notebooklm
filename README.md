@@ -128,14 +128,22 @@ Aprendi que definir o nível de dificuldade, os conteúdos desejados e o formato
 *Resumo*
 
 * O que é lógica de programação.
+  - É a base de tudo, a forma como resolvemos problemas com conjuntos de regras e instruções pré-estabelecida.
 * Variáveis.
+  - Variaveis são espaços na memoria do computador para guardar informações
 * Tipos de dados.
+  - Tipos de dados são a forma que temos para representar, números inteiros, casas decimais, texto e valores lógicos.
 * Operadores.
+  - Operadores são adição, subtração... para realizar operações matematica.
 * Condicionais.
+  - Condições é a forma que temos para testar se algo é verdadeiro ou falso.
 * Repetição.
+  - Repetição serve na programação para repetir o mesmo bloco tantas vezes preciso
 * Funções.
+  - Funções são utilizada para criar blocos de codigos reutilizaveis posteriormente
 * Indentação.
-
+ - Indentação serve para especificar qual bloco faz parte da instrução
+   
 ## 📖 Glossário
 
 | Termo | Definição |
