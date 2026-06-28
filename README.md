@@ -134,15 +134,15 @@ Aprendi que definir o nível de dificuldade, os conteúdos desejados e o formato
 * Tipos de dados.
   - Tipos de dados são a forma que temos para representar, números inteiros, casas decimais, texto e valores lógicos.
 * Operadores.
-  - Operadores são adição, subtração... para realizar operações matematica.
+  - São simbolos utilziado para realizar operações matematicas e teste de valores.
 * Condicionais.
-  - Condições é a forma que temos para testar se algo é verdadeiro ou falso.
+  - Condições são estruturas para tomada de decisões.
 * Repetição.
-  - Repetição serve na programação para repetir o mesmo bloco tantas vezes preciso
+  - Repetição serve na programação para repetir o mesmo bloco tantas vezes que for preciso
 * Funções.
-  - Funções são utilizada para criar blocos de codigos reutilizaveis posteriormente
+  - Funções são utilizada para criar blocos de códigos reutilizaveis posteriormente
 * Indentação.
- - Indentação serve para especificar qual bloco faz parte da instrução
+ - Indentação serve para especificar qual bloco faz parte da instrução.
    
 ## 📖 Glossário
 
