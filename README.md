@@ -140,19 +140,19 @@ Aprendi que definir o nível de dificuldade, os conteúdos desejados e o formato
 
 | Termo | Definição |
 |--------|-----------|
-| **Lógica de Programação** | Conjunto de regras e instruções utilizadas para resolver problemas por meio de algoritmos. |
-| **Variável** | Espaço na memória utilizado para armazenar informações que podem ser alteradas durante a execução do programa. |
-| **int** | Tipo de dado utilizado para representar números inteiros, como 10, 25 ou -8. |
-| **float** | Tipo de dado utilizado para representar números decimais, como 3.14 ou 7.5. |
-| **str** | Tipo de dado utilizado para armazenar textos, palavras ou frases. |
-| **bool** | Tipo de dado lógico que possui apenas dois valores: `True` (verdadeiro) ou `False` (falso). |
-| **if** | Estrutura condicional utilizada para executar um bloco de código quando uma condição é verdadeira. |
-| **elif** | Estrutura utilizada para testar uma nova condição caso a condição anterior seja falsa. |
-| **else** | Estrutura executada quando nenhuma das condições anteriores é atendida. |
-| **for** | Estrutura de repetição utilizada para percorrer elementos de uma coleção ou repetir uma ação um número determinado de vezes. |
-| **while** | Estrutura de repetição que executa um bloco de código enquanto uma condição permanecer verdadeira. |
-| **Função** | Bloco de código reutilizável criado para executar uma tarefa específica, evitando repetição de código. |
-| **Indentação** | Recuo obrigatório das linhas de código em Python que define quais instruções pertencem ao mesmo bloco lógico. |
+| **Lógica de Programação** | Conjunto de regras e instruções para resolver um problema de algoritmo. |
+| **Variável** | Espaço na memória para armazenar informações. |
+| **int** | Representa números inteiros |
+| **float** | Representa números com casas decimais |
+| **str** | Representa texto |
+| **bool** | Valor lógico que possui True ou False |
+| **if** | Executa um bloco de código se a condição for verdadeira |
+| **elif** | Testa uma nova condição se a anterior for False |
+| **else** | Quando nenhuma estrutura é atendida é executada |
+| **for** | Estrutura de repetição para percorrer um elemento ou repetir uma ação |
+| **while** | Executa um bloco de código até ela se tornar False. |
+| **Função** | É um bloco de código reutilizavel chamada através do nome da função. |
+| **Indentação** | Utilizado para definir em qual bloco de código as instruções vão estar |
 
 ## Prompts Utilizaveis
 
