@@ -142,7 +142,7 @@ Aprendi que definir o nível de dificuldade, os conteúdos desejados e o formato
 * Funções.
   - Funções são utilizada para criar blocos de códigos reutilizaveis posteriormente
 * Indentação.
- - Indentação serve para especificar qual bloco faz parte da instrução.
+  - Indentação serve para especificar qual bloco faz parte da instrução.
    
 ## 📖 Glossário
 
