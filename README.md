@@ -50,6 +50,8 @@ do cotidiano em python para melhor entendimento. Depois me passa um exercicio si
 
 **Reposta da IA:**
 
+A IA explicou lógica de programação utilizando exemplos do cotidiano, apresentou conceitos de Python e finalizou com um exercício para reforçar o aprendizado.
+
 ## Troubleshooting
 
 ### Dificuldade encontrada
@@ -69,6 +71,57 @@ Após o refinamento, a IA produziu uma resposta mais organizada, didática e ade
 Aprendi que prompts específicos produzem respostas mais completas e úteis para o estudo.
 
 ***
+
+## Prompt 2 - Exercicios práticos
+
+*Pergunta: Crie 5 exercicios de lógica de programação em Python para iniciantes*
+
+**Resposta da IA:**
+
+
+A IA criou cinco exercíciossobre variáveis, condicionais, laços de repetição e funções, 
+para reforçar os conceitos de lógica de programação em Python
+
+## Fontes utilizadas:
+
+- Estruturas de repetição em Python | DevMedia
+- Funções | Python Iluminado
+- If/Elif/Else: as Estruturas Condicionais do Python | Python Academy
+- Introdução ao Python | Google for Developers
+- Tipos de Variáveis no Python | Python Academy
+
+***
+
+## Variação do Prompt 2
+
+Crie 5 exercícios de lógica de programação em Python com exemplos, em ordem crescente de dificuldade,
+ sem fornecer as respostas.
+
+**Resposta da IA:**
+
+A IA criou cinco exercícios detalhado com exemplos de Python, abordando variáveis, condicionais, laços de repetição,
+funções e indentação para reforçar a prática da lógica de programação.
+
+
+## Troubleshooting
+
+**Dificuldade encontrada**
+
+O prompt inicial gerou exercícios corretos, porém com pouca organização e sem uma progressão clara de dificuldade, dificultando a prática gradual dos conceitos.
+
+**Como resolvi**
+
+Refinei o prompt solicitando que os exercícios fossem organizados em ordem crescente de dificuldade e abordassem variáveis, condicionais, laços de repetição e funções, sem fornecer as respostas.
+
+**Resultado**
+
+Após o refinamento, a IA gerou cinco exercícios mais estruturados, com exemplos em Python e níveis de dificuldade progressivos, tornando a prática mais eficiente.
+
+**Aprendizado**
+
+Aprendi que definir o nível de dificuldade, os conteúdos desejados e o formato da resposta ajuda a IA a produzir exercícios mais organizados e adequados ao processo de aprendizagem.
+
+
 
 ### Miniguia de Estudos
  
